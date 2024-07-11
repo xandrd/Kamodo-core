@@ -99,7 +99,7 @@ pip install kamodo
 To get the latest version of Kamodo Core, install from the NASA git repo:
 
 ```console
-pip install git+https://github.com/ccmc/Kamodo-core.git
+pip install git+https://github.com/nasa/Kamodo-core.git
 ```
 
 ### Kamodo Environment
